@@ -1,0 +1,2 @@
+# lcsc_crystals_oscillators_resonators
+lcsc_crystals_oscillators_resonators
